@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "cd6eca1d-lite",
+    "versionCode": "284",
+    "link": "https://raw.githubusercontent.com/vvb2060/magisk_files/master/app-release.apk",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
+  },
+  "magisk": {
+    "version": "cd6eca1d-lite",
+    "versionCode": "20415",
+    "link": "https://raw.githubusercontent.com/vvb2060/magisk_files/master/magisk-release.zip",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
+    "md5": "da990f6674d2e28643486e03b09264f4"
+  },
+  "uninstaller": {
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-uninstaller.zip"
+  },
+  "stub": {
+    "versionCode": "7",
+    "link": "https://raw.githubusercontent.com/vvb2060/magisk_files/master/stub-release.apk"
+  }
+}
