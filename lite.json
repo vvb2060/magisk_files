@@ -2,21 +2,21 @@
   "app": {
     "version": "cd6eca1d-lite",
     "versionCode": "284",
-    "link": "https://raw.githubusercontent.com/vvb2060/magisk_files/master/app-release.apk",
-    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
+    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@0721f3bad49fddd64a8b3f27343ea83241d1301a/app-release.apk",
+    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@7a388abedd902a773ac803984166ecd58d5edb80/notes.md"
   },
   "magisk": {
     "version": "cd6eca1d-lite",
     "versionCode": "20415",
-    "link": "https://raw.githubusercontent.com/vvb2060/magisk_files/master/magisk-release.zip",
-    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
-    "md5": "da990f6674d2e28643486e03b09264f4"
+    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@0721f3bad49fddd64a8b3f27343ea83241d1301a/magisk-release.zip",
+    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@7a388abedd902a773ac803984166ecd58d5edb80/notes.md",
+    "md5": "686457336ac04c2eb322f1df52f915a9"
   },
   "uninstaller": {
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-uninstaller.zip"
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk_files@7a388abedd902a773ac803984166ecd58d5edb80/magisk-uninstaller.zip"
   },
   "stub": {
     "versionCode": "7",
-    "link": "https://raw.githubusercontent.com/vvb2060/magisk_files/master/stub-release.apk"
+    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@0721f3bad49fddd64a8b3f27343ea83241d1301a/stub-release.apk"
   }
 }
