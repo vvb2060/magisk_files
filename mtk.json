@@ -15,8 +15,8 @@
   "magisk": {
     "version": "a848f10b",
     "versionCode": "21101",
-    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@2b62137412ed20d0d6cba57f69d66fc9132183c5/magisk-debug.zip",
+    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@3ced03a21a8fd181cd5e7713d3c76f51945d43c3/magisk-debug.zip",
     "note": "https://topjohnwu.github.io/Magisk/releases/21100.md",
-    "md5": "000"
+    "md5": "51583e8abb774e40a2af96e2a539530d"
   }
 }
