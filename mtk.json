@@ -1,9 +1,9 @@
 {
   "app": {
-    "version": "086059ec-alpha",
+    "version": "7ff22c68-alpha",
     "versionCode": "315",
-    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@0e181ed7c9155c726699e604b52db4ecbb422f98/app-debug.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@0e181ed7c9155c726699e604b52db4ecbb422f98/notes.md"
+    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@217d57746bd6cdc891fbf1b03ff7e35f187b90cf/app-debug.apk",
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@217d57746bd6cdc891fbf1b03ff7e35f187b90cf/notes.md"
   },
   "stub": {
     "versionCode": "14",
@@ -13,10 +13,10 @@
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.1/Magisk-uninstaller-20201113.zip"
   },
   "magisk": {
-    "version": "086059ec-alpha",
+    "version": "7ff22c68-alpha",
     "versionCode": "21101",
-    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@0e181ed7c9155c726699e604b52db4ecbb422f98/magisk-debug.zip",
+    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@217d57746bd6cdc891fbf1b03ff7e35f187b90cf/magisk-debug.zip",
     "note": "https://topjohnwu.github.io/Magisk/releases/21100.md",
-    "md5": "0b620d03a83f69e39b0b6d703837a3cc"
+    "md5": "3e0a80aa05200d42cbd31c2f72864081"
   }
 }
