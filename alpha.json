@@ -1,9 +1,9 @@
 {
   "app": {
-    "version": "f5593e05-alpha",
-    "versionCode": "4844",
+    "version": "2e0f7a82-alpha",
+    "versionCode": "21401",
     "link": "app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@ee5eb27da13102b8495c157020c51189f9e83ead/app/src/main/res/raw/changelog.md"
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@ee191a4070ffddf2800d14d73d414417f2df3cf2/app/src/main/res/raw/changelog.md"
   },
   "stub": {
     "versionCode": "15",
