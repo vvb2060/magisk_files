@@ -5,6 +5,12 @@
     "link": "app-release.apk",
     "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@dd7f555848df5a64bb5ff4d7ae5ba54022cb7e79/app/src/main/res/raw/changelog.md"
   },
+  "app": {
+    "version": "c609a01e-alpha",
+    "versionCode": "21402",
+    "link": "app-release.apk",
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@dd7f555848df5a64bb5ff4d7ae5ba54022cb7e79/app/src/main/res/raw/changelog.md"
+  },
   "stub": {
     "versionCode": "16",
     "link": "stub-release.apk"
