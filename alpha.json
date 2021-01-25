@@ -1,15 +1,15 @@
 {
   "magisk": {
-    "version": "b1dbbdef-alpha",
-    "versionCode": "21404",
+    "version": "dc61dfbd-alpha",
+    "versionCode": "21405",
     "link": "app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@93f392b46458d2a2f2fd64892d131d8da366d280/app/src/main/res/raw/changelog.md"
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@462094efe9cb2f1f13196987bdbd11ff1509e1a8/app/src/main/res/raw/changelog.md"
   },
   "app": {
-    "version": "b1dbbdef-alpha",
-    "versionCode": "21404",
+    "version": "dc61dfbd-alpha",
+    "versionCode": "21405",
     "link": "app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@93f392b46458d2a2f2fd64892d131d8da366d280/app/src/main/res/raw/changelog.md"
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@462094efe9cb2f1f13196987bdbd11ff1509e1a8/app/src/main/res/raw/changelog.md"
   },
   "stub": {
     "versionCode": "16",
