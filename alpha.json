@@ -1,18 +1,18 @@
 {
   "magisk": {
-    "version": "dc61dfbd-alpha",
-    "versionCode": "21405",
+    "version": "6fb20b3e-alpha",
+    "versionCode": "21406",
     "link": "app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@462094efe9cb2f1f13196987bdbd11ff1509e1a8/app/src/main/res/raw/changelog.md"
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@b0612b1e3cb39ed362f9e70cf1fff9c73f109f62/app/src/main/res/raw/changelog.md"
   },
   "app": {
-    "version": "dc61dfbd-alpha",
-    "versionCode": "21405",
+    "version": "6fb20b3e-alpha",
+    "versionCode": "21406",
     "link": "app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@462094efe9cb2f1f13196987bdbd11ff1509e1a8/app/src/main/res/raw/changelog.md"
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@b0612b1e3cb39ed362f9e70cf1fff9c73f109f62/app/src/main/res/raw/changelog.md"
   },
   "stub": {
-    "versionCode": "16",
+    "versionCode": "17",
     "link": "stub-release.apk"
   }
 }
