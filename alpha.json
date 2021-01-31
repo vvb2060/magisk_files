@@ -1,5 +1,5 @@
 {
-  "app": {
+  "magisk": {
     "version": "7acfac6a-alpha",
     "versionCode": "21407",
     "link": "app-release.apk",
