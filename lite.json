@@ -1,15 +1,15 @@
 {
   "app": {
-    "version": "f42a87b5-lite",
-    "versionCode": "22006",
-    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@919f04d088a255382759db3df3c000502ecddcdd/app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@76748e7011f012534b129061599d85739404cc35/app/src/main/res/raw/changelog.md"
+    "version": "7cb28068-lite",
+    "versionCode": "22007",
+    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@c135cabd09ab6b890649966875702687065408b5/app-release.apk",
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@bac31fd0a1e1d70c1cf53a90880c94fc4099d75c/app/src/main/res/raw/changelog.md"
   },
   "magisk": {
-    "version": "f42a87b5-lite",
-    "versionCode": "22006",
+    "version": "7cb28068-lite",
+    "versionCode": "22007",
     "link": "app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@76748e7011f012534b129061599d85739404cc35/app/src/main/res/raw/changelog.md"
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@bac31fd0a1e1d70c1cf53a90880c94fc4099d75c/app/src/main/res/raw/changelog.md"
   },
   "stub": {
     "versionCode": "20",
