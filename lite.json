@@ -1,15 +1,9 @@
 {
-  "app": {
-    "version": "7cb28068-lite",
-    "versionCode": "22007",
-    "link": "https://cdn.jsdelivr.net/gh/vvb2060/magisk_files@c135cabd09ab6b890649966875702687065408b5/app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@bac31fd0a1e1d70c1cf53a90880c94fc4099d75c/app/src/main/res/raw/changelog.md"
-  },
   "magisk": {
-    "version": "7cb28068-lite",
-    "versionCode": "22007",
+    "version": "c4e8dda3-lite",
+    "versionCode": "22102",
     "link": "app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@bac31fd0a1e1d70c1cf53a90880c94fc4099d75c/app/src/main/res/raw/changelog.md"
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@b5e348d28b88c417227dedf9ef88b33e7d0c5dc3/app/src/main/res/raw/changelog.md"
   },
   "stub": {
     "versionCode": "20",
