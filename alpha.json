@@ -4,7 +4,7 @@
     "versionCode": "23001",
     "link": "app-release.apk",
     "link64": "app-release.apk",
-    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@fe8e2abb688421fe5f8a938235cee66fb47d77df/app/src/main/res/raw/changelog.md"
+    "note": "https://cdn.jsdelivr.net/gh/vvb2060/Magisk@dbcd516226cafda8c077268d0ca58af4f3d37e69/app/src/main/res/raw/changelog.md"
   },
   "stub": {
     "versionCode": "21",
